@@ -183,4 +183,7 @@
 
     <!-- Maximum number of supported users -->
     <integer name="config_multiuserMaximumUsers">4</integer>
+
+    <!-- Boolean to show HW keys enable/disbale option -->
+    <bool name="config_hwKeysPref">true</bool>
 </resources>
